@@ -1,0 +1,5 @@
+﻿  ConsoleApplication11.cpp
+D:\my cpp competitve program training\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(51,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\my cpp competitve program training\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(250,1): warning C4715: 'DeletClientByAccountNumber': not all control paths return a value
+D:\my cpp competitve program training\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(298,1): warning C4715: 'UpdatClientRecord': not all control paths return a value
+  ConsoleApplication11.vcxproj -> D:\my cpp competitve program training\ConsoleApplication11\x64\Debug\ConsoleApplication11.exe
